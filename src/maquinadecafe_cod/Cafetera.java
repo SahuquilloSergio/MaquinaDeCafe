@@ -1,12 +1,11 @@
 package maquinadecafe_cod;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Esta clase implementa los métodos para preparar las bebidas
+ * Clase que implementa los métodos para preparar las bebidas
  * 
- * @author mbacelofernandez
+ * @author ssahuquilloembade
  */
 
 public class Cafetera {
@@ -20,8 +19,8 @@ public class Cafetera {
         return escoger;
     }
     /**
-     * Permite al usuario escoger la bebida deseada y combrueba que haiga credito
-     * suficiente, si no hay te insta a que lo insertes
+     * Permite al usuario escoger la bebida deseada y combrueba que haya credito
+     * suficiente, si no hay te insiste a que lo insertes
      * @param bebidas Array que contiene las bebidas disponibles
      */
     public static void escogerBebida(Producto bebidas[]) {

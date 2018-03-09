@@ -2,8 +2,8 @@ package maquinadecafe_cod;
 
 import java.util.Scanner;
 /**
- * Esta clase implementa los metodos relacionados con el credito y el pago de las bebidas
- * @author mbacelofernandez
+ * Clase que implementa los metodos relacionados con el credito y el pago de las bebidas
+ * @author ssahuquilloemabde
  */
 
 public class Monedero {

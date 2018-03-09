@@ -1,7 +1,7 @@
 package maquinadecafe_cod;
 /**
  * Contine las variables del producto
- * @author mbacelofernandez
+ * @author ssahuquilloembade
  */
 public class Producto {
 

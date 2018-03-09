@@ -1,10 +1,9 @@
 package maquinadecafe_cod;
-import java.util.ArrayList;
 
 /**
  * Clase que contiene la funcion main
  * 
- * @author mbacelofernandez
+ * @author ssahuquilloembade
  */
 public class MaquinaDeCafe_COD {
 

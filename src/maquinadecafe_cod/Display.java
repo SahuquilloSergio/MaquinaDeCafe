@@ -2,8 +2,8 @@ package maquinadecafe_cod;
 
 import javax.swing.JOptionPane;
 /**
- * Esta clase contiene la visualización del array
- * @author mbacelofernandez
+ * Clase que contiene la visualización del array
+ * @author ssahuquilloembade
  */
 
 public class Display {
@@ -20,7 +20,7 @@ public class Display {
     }
     /**
      * Mensaje que aparece en caso de escoger una opción incorrecta en el menu
-     * @param mensaje que se muestra en el menu
+     * @param mensaje que muestra el menu
      */
     public static void darMensaje(String mensaje) {
 
